@@ -1,0 +1,3 @@
+Afirma que cada modulo de software deve ter um, e apenas um, motivo para mudar.
+
+	_“Se uma classe tem mais de uma responsabilidade, as responsabilidades se tornam acopladas. Mudanças em uma responsabilidade podem prejudicar ou inibir a capacidade da classe de cumprir as outras. Esse tipo de acoplamento leva a projetos frágeis que estragam de maneiras inesperadas quando alterados.” (MARTIN 2011).
